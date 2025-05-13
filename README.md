@@ -1,3 +1,3 @@
 # data_battery_discharge
 
-Database for a question on MATLAB Answers
+Data for a question on MATLAB Answers
